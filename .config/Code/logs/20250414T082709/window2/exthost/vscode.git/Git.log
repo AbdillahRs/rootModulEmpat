@@ -21,3 +21,6 @@
 2025-04-14 09:42:34.572 [info] fatal: not a git repository (or any of the parent directories): .git
 2025-04-14 09:43:17.039 [info] > git rev-parse --show-toplevel [19ms]
 2025-04-14 09:43:17.039 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-04-14 10:08:26.192 [info] > git rev-parse --show-toplevel [49ms]
+2025-04-14 10:08:58.991 [info] > git rev-parse --show-toplevel [11ms]
+2025-04-14 10:09:02.985 [info] > git rev-parse --show-toplevel [7ms]

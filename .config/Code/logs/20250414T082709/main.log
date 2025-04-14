@@ -5,3 +5,7 @@
 2025-04-14 09:27:39.739 [info] update#setState idle
 2025-04-14 09:42:03.152 [info] Extension host with pid 3539 exited with code: 0, signal: unknown.
 2025-04-14 09:43:51.336 [warning] No ptyHost heartbeat after 6 seconds
+2025-04-14 09:47:10.701 [warning] No ptyHost heartbeat after 6 seconds
+2025-04-14 09:48:09.489 [warning] No ptyHost heartbeat after 6 seconds
+2025-04-14 09:49:41.312 [warning] No ptyHost heartbeat after 6 seconds
+2025-04-14 09:50:47.133 [warning] No ptyHost heartbeat after 6 seconds
