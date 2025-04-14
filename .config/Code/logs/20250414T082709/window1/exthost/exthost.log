@@ -1,0 +1,11 @@
+2025-04-14 08:27:20.306 [info] Extension host with pid 3539 started
+2025-04-14 08:27:20.306 [info] Skipping acquiring lock for /home/rootModulEmpat/.config/Code/User/workspaceStorage/1b6005420b8c9847d0886b1e56b9c73e.
+2025-04-14 08:27:20.856 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-04-14 08:27:21.180 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2025-04-14 08:27:21.537 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-04-14 08:27:21.884 [info] Eager extensions activated
+2025-04-14 08:27:22.470 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-04-14 08:27:22.536 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-04-14 08:58:07.908 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2025-04-14 09:42:03.020 [info] Extension host terminating: renderer closed the MessagePort
+2025-04-14 09:42:03.090 [info] Extension host with pid 3539 exiting with code 0
